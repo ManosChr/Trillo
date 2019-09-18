@@ -2,7 +2,7 @@
 
 ## Description
 
-> A responsive landing page developed during the “Advanced CSS and modern Sass: Flexbox, Grid, Animations and More!” course on Udemy.com, which which utilizes technologies like SASS and CSS Grid.
+> A responsive landing page developed during the “Advanced CSS and modern Sass: Flexbox, Grid, Animations and More!” course on Udemy.com, which which utilizes technologies like SASS and Flexbox.
 
 ## Instructions for running locally
 
